@@ -69,8 +69,8 @@ export default {
     cascader
   },
   methods: {
-    refresh: function(){
-      console.log("refresh");
+    refresh: function(val){
+      console.log(val);
     },
     show: function(){
       console.log(this.testOne);

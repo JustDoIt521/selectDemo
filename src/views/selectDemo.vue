@@ -80,7 +80,7 @@ export default {
     },
 }
 </script>
-<style lang="less">
+<style lang="less" scoped>
     #selectDemo{
         position: relative;
         ul{
